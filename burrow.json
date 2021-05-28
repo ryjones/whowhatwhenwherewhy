@@ -1,0 +1,122 @@
+[
+  {
+    "name": "burrow maintainers",
+    "id": 2328687,
+    "node_id": "MDQ6VGVhbTIzMjg2ODc=",
+    "slug": "burrow-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2328687",
+    "html_url": "https://github.com/orgs/hyperledger/teams/burrow-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/2328687/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2328687/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Burrow Contributors",
+      "id": 3354750,
+      "node_id": "MDQ6VGVhbTMzNTQ3NTA=",
+      "slug": "burrow-contributors",
+      "description": "For those who move earth",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3354750",
+      "html_url": "https://github.com/orgs/hyperledger/teams/burrow-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3354750/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3354750/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": false,
+        "triage": true,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Burrow Admins",
+    "id": 2892013,
+    "node_id": "MDQ6VGVhbTI4OTIwMTM=",
+    "slug": "burrow-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2892013",
+    "html_url": "https://github.com/orgs/hyperledger/teams/burrow-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/2892013/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2892013/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "burrow maintainers",
+      "id": 2328687,
+      "node_id": "MDQ6VGVhbTIzMjg2ODc=",
+      "slug": "burrow-maintainers",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2328687",
+      "html_url": "https://github.com/orgs/hyperledger/teams/burrow-maintainers",
+      "members_url": "https://api.github.com/organizations/7657900/team/2328687/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2328687/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": true,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Burrow Contributors",
+    "id": 3354750,
+    "node_id": "MDQ6VGVhbTMzNTQ3NTA=",
+    "slug": "burrow-contributors",
+    "description": "For those who move earth",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3354750",
+    "html_url": "https://github.com/orgs/hyperledger/teams/burrow-contributors",
+    "members_url": "https://api.github.com/organizations/7657900/team/3354750/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3354750/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": false,
+      "triage": true,
+      "push": false,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

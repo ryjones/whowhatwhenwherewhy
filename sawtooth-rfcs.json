@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sawtooth Core Admins",
+    "id": 2011543,
+    "node_id": "MDQ6VGVhbTIwMTE1NDM=",
+    "slug": "sawtooth-core-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2011543",
+    "html_url": "https://github.com/orgs/hyperledger/teams/sawtooth-core-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/2011543/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2011543/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Sawtooth Admins",
+      "id": 2573268,
+      "node_id": "MDQ6VGVhbTI1NzMyNjg=",
+      "slug": "sawtooth-admins",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2573268",
+      "html_url": "https://github.com/orgs/hyperledger/teams/sawtooth-admins",
+      "members_url": "https://api.github.com/organizations/7657900/team/2573268/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2573268/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Sawtooth RFCs Maintainers",
+    "id": 2742789,
+    "node_id": "MDQ6VGVhbTI3NDI3ODk=",
+    "slug": "sawtooth-rfcs-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2742789",
+    "html_url": "https://github.com/orgs/hyperledger/teams/sawtooth-rfcs-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/2742789/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2742789/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "Sawtooth Contributors",
+      "id": 2573251,
+      "node_id": "MDQ6VGVhbTI1NzMyNTE=",
+      "slug": "sawtooth-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2573251",
+      "html_url": "https://github.com/orgs/hyperledger/teams/sawtooth-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/2573251/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2573251/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "iroha-admin",
+    "id": 2379181,
+    "node_id": "MDQ6VGVhbTIzNzkxODE=",
+    "slug": "iroha-admin",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2379181",
+    "html_url": "https://github.com/orgs/hyperledger/teams/iroha-admin",
+    "members_url": "https://api.github.com/organizations/7657900/team/2379181/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2379181/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Iroha Maintainers",
+      "id": 2477746,
+      "node_id": "MDQ6VGVhbTI0Nzc3NDY=",
+      "slug": "iroha-maintainers",
+      "description": "Hyperledger-Iroha's contributors",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2477746",
+      "html_url": "https://github.com/orgs/hyperledger/teams/iroha-maintainers",
+      "members_url": "https://api.github.com/organizations/7657900/team/2477746/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2477746/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Iroha Maintainers",
+    "id": 2477746,
+    "node_id": "MDQ6VGVhbTI0Nzc3NDY=",
+    "slug": "iroha-maintainers",
+    "description": "Hyperledger-Iroha's contributors",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2477746",
+    "html_url": "https://github.com/orgs/hyperledger/teams/iroha-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/2477746/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2477746/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": false,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "Iroha Contributors",
+      "id": 2166962,
+      "node_id": "MDQ6VGVhbTIxNjY5NjI=",
+      "slug": "iroha-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2166962",
+      "html_url": "https://github.com/orgs/hyperledger/teams/iroha-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/2166962/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2166962/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "iroha-tui-client-committers",
+    "id": 3494006,
+    "node_id": "MDQ6VGVhbTM0OTQwMDY=",
+    "slug": "iroha-tui-client-committers",
+    "description": "iroha-tui-client-committers",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3494006",
+    "html_url": "https://github.com/orgs/hyperledger/teams/iroha-tui-client-committers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3494006/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3494006/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "Iroha Contributors",
+      "id": 2166962,
+      "node_id": "MDQ6VGVhbTIxNjY5NjI=",
+      "slug": "iroha-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2166962",
+      "html_url": "https://github.com/orgs/hyperledger/teams/iroha-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/2166962/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2166962/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

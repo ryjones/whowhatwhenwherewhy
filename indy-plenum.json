@@ -1,0 +1,202 @@
+[
+  {
+    "name": "indy-admin",
+    "id": 2379183,
+    "node_id": "MDQ6VGVhbTIzNzkxODM=",
+    "slug": "indy-admin",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2379183",
+    "html_url": "https://github.com/orgs/hyperledger/teams/indy-admin",
+    "members_url": "https://api.github.com/organizations/7657900/team/2379183/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2379183/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Indy Common",
+      "id": 2403927,
+      "node_id": "MDQ6VGVhbTI0MDM5Mjc=",
+      "slug": "indy-common",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2403927",
+      "html_url": "https://github.com/orgs/hyperledger/teams/indy-common",
+      "members_url": "https://api.github.com/organizations/7657900/team/2403927/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2403927/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": true,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Indy CI",
+    "id": 2403923,
+    "node_id": "MDQ6VGVhbTI0MDM5MjM=",
+    "slug": "indy-ci",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2403923",
+    "html_url": "https://github.com/orgs/hyperledger/teams/indy-ci",
+    "members_url": "https://api.github.com/organizations/7657900/team/2403923/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2403923/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Indy Common",
+      "id": 2403927,
+      "node_id": "MDQ6VGVhbTI0MDM5Mjc=",
+      "slug": "indy-common",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2403927",
+      "html_url": "https://github.com/orgs/hyperledger/teams/indy-common",
+      "members_url": "https://api.github.com/organizations/7657900/team/2403927/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2403927/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": true,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Indy Common",
+    "id": 2403927,
+    "node_id": "MDQ6VGVhbTI0MDM5Mjc=",
+    "slug": "indy-common",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/2403927",
+    "html_url": "https://github.com/orgs/hyperledger/teams/indy-common",
+    "members_url": "https://api.github.com/organizations/7657900/team/2403927/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/2403927/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "indy-plenum-maintainers",
+    "id": 3781851,
+    "node_id": "MDQ6VGVhbTM3ODE4NTE=",
+    "slug": "indy-plenum-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3781851",
+    "html_url": "https://github.com/orgs/hyperledger/teams/indy-plenum-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3781851/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3781851/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Indy Common",
+      "id": 2403927,
+      "node_id": "MDQ6VGVhbTI0MDM5Mjc=",
+      "slug": "indy-common",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2403927",
+      "html_url": "https://github.com/orgs/hyperledger/teams/indy-common",
+      "members_url": "https://api.github.com/organizations/7657900/team/2403927/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2403927/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": true,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "indy-shared-rs-maintainers",
+    "id": 4411541,
+    "node_id": "MDQ6VGVhbTQ0MTE1NDE=",
+    "slug": "indy-shared-rs-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4411541",
+    "html_url": "https://github.com/orgs/hyperledger/teams/indy-shared-rs-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/4411541/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4411541/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Indy Common",
+      "id": 2403927,
+      "node_id": "MDQ6VGVhbTI0MDM5Mjc=",
+      "slug": "indy-common",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/2403927",
+      "html_url": "https://github.com/orgs/hyperledger/teams/indy-common",
+      "members_url": "https://api.github.com/organizations/7657900/team/2403927/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2403927/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": true,
+        "admin": false
+      }
+    }
+  }
+]

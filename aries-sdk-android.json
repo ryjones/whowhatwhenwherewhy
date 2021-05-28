@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Aries Contributors",
+    "id": 3251371,
+    "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+    "slug": "aries-contributors",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3251371",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+    "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": false,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Aries Committers",
+    "id": 3252142,
+    "node_id": "MDQ6VGVhbTMyNTIxNDI=",
+    "slug": "aries-committers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3252142",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-committers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3252142/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3252142/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "aries-sdk-android committers",
+    "id": 3276470,
+    "node_id": "MDQ6VGVhbTMyNzY0NzA=",
+    "slug": "aries-sdk-android-committers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3276470",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-sdk-android-committers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3276470/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3276470/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "aries-admins",
+    "id": 3411240,
+    "node_id": "MDQ6VGVhbTM0MTEyNDA=",
+    "slug": "aries-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3411240",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/3411240/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3411240/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "aries-framework-go-ext committers",
+    "id": 4154853,
+    "node_id": "MDQ6VGVhbTQxNTQ4NTM=",
+    "slug": "aries-framework-go-ext-committers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4154853",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-framework-go-ext-committers",
+    "members_url": "https://api.github.com/organizations/7657900/team/4154853/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4154853/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": false,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

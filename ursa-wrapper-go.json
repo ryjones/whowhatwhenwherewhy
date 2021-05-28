@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ursa Maintainers",
+    "id": 3010542,
+    "node_id": "MDQ6VGVhbTMwMTA1NDI=",
+    "slug": "ursa-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3010542",
+    "html_url": "https://github.com/orgs/hyperledger/teams/ursa-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3010542/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3010542/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "ursa-admins",
+    "id": 3411329,
+    "node_id": "MDQ6VGVhbTM0MTEzMjk=",
+    "slug": "ursa-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3411329",
+    "html_url": "https://github.com/orgs/hyperledger/teams/ursa-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/3411329/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3411329/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Ursa Maintainers",
+      "id": 3010542,
+      "node_id": "MDQ6VGVhbTMwMTA1NDI=",
+      "slug": "ursa-maintainers",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3010542",
+      "html_url": "https://github.com/orgs/hyperledger/teams/ursa-maintainers",
+      "members_url": "https://api.github.com/organizations/7657900/team/3010542/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3010542/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": true,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "ursa-wrapper-go maintainers",
+    "id": 4093134,
+    "node_id": "MDQ6VGVhbTQwOTMxMzQ=",
+    "slug": "ursa-wrapper-go-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4093134",
+    "html_url": "https://github.com/orgs/hyperledger/teams/ursa-wrapper-go-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/4093134/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4093134/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

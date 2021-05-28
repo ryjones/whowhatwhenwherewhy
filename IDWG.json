@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Identity WG",
+    "id": 3489147,
+    "node_id": "MDQ6VGVhbTM0ODkxNDc=",
+    "slug": "identity-wg",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3489147",
+    "html_url": "https://github.com/orgs/hyperledger/teams/identity-wg",
+    "members_url": "https://api.github.com/organizations/7657900/team/3489147/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3489147/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

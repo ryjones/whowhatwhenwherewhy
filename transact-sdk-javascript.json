@@ -1,0 +1,82 @@
+[
+  {
+    "name": "transact-sdk-javascript-admin",
+    "id": 3569597,
+    "node_id": "MDQ6VGVhbTM1Njk1OTc=",
+    "slug": "transact-sdk-javascript-admin",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3569597",
+    "html_url": "https://github.com/orgs/hyperledger/teams/transact-sdk-javascript-admin",
+    "members_url": "https://api.github.com/organizations/7657900/team/3569597/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3569597/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Transact Contributors",
+      "id": 3263315,
+      "node_id": "MDQ6VGVhbTMyNjMzMTU=",
+      "slug": "transact-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3263315",
+      "html_url": "https://github.com/orgs/hyperledger/teams/transact-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3263315/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3263315/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "transact-sdk-javascript-maintainers",
+    "id": 3569600,
+    "node_id": "MDQ6VGVhbTM1Njk2MDA=",
+    "slug": "transact-sdk-javascript-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3569600",
+    "html_url": "https://github.com/orgs/hyperledger/teams/transact-sdk-javascript-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3569600/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3569600/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "Transact Contributors",
+      "id": 3263315,
+      "node_id": "MDQ6VGVhbTMyNjMzMTU=",
+      "slug": "transact-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3263315",
+      "html_url": "https://github.com/orgs/hyperledger/teams/transact-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3263315/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3263315/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

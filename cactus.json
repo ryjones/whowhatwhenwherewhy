@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Robots",
+    "id": 3512775,
+    "node_id": "MDQ6VGVhbTM1MTI3NzU=",
+    "slug": "robots",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3512775",
+    "html_url": "https://github.com/orgs/hyperledger/teams/robots",
+    "members_url": "https://api.github.com/organizations/7657900/team/3512775/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3512775/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": null
+  },
+  {
+    "name": "Cactus maintainers",
+    "id": 3808369,
+    "node_id": "MDQ6VGVhbTM4MDgzNjk=",
+    "slug": "cactus-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3808369",
+    "html_url": "https://github.com/orgs/hyperledger/teams/cactus-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3808369/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3808369/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "cactus-contributors",
+      "id": 4625176,
+      "node_id": "MDQ6VGVhbTQ2MjUxNzY=",
+      "slug": "cactus-contributors",
+      "description": "The umbrella team for all Cactus contributors with write access.",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/4625176",
+      "html_url": "https://github.com/orgs/hyperledger/teams/cactus-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/4625176/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/4625176/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Cactus Security Administration",
+    "id": 4296111,
+    "node_id": "MDQ6VGVhbTQyOTYxMTE=",
+    "slug": "cactus-security-administration",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4296111",
+    "html_url": "https://github.com/orgs/hyperledger/teams/cactus-security-administration",
+    "members_url": "https://api.github.com/organizations/7657900/team/4296111/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4296111/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "cactus-contributors",
+      "id": 4625176,
+      "node_id": "MDQ6VGVhbTQ2MjUxNzY=",
+      "slug": "cactus-contributors",
+      "description": "The umbrella team for all Cactus contributors with write access.",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/4625176",
+      "html_url": "https://github.com/orgs/hyperledger/teams/cactus-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/4625176/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/4625176/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Cactus-Contributors-Accenture",
+    "id": 4476435,
+    "node_id": "MDQ6VGVhbTQ0NzY0MzU=",
+    "slug": "cactus-contributors-accenture",
+    "description": "Team where Accenture contributors are added.",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4476435",
+    "html_url": "https://github.com/orgs/hyperledger/teams/cactus-contributors-accenture",
+    "members_url": "https://api.github.com/organizations/7657900/team/4476435/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4476435/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "cactus-contributors",
+      "id": 4625176,
+      "node_id": "MDQ6VGVhbTQ2MjUxNzY=",
+      "slug": "cactus-contributors",
+      "description": "The umbrella team for all Cactus contributors with write access.",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/4625176",
+      "html_url": "https://github.com/orgs/hyperledger/teams/cactus-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/4625176/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/4625176/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Grid Admins",
+    "id": 3074504,
+    "node_id": "MDQ6VGVhbTMwNzQ1MDQ=",
+    "slug": "grid-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3074504",
+    "html_url": "https://github.com/orgs/hyperledger/teams/grid-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/3074504/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3074504/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Grid Contributors",
+      "id": 3078773,
+      "node_id": "MDQ6VGVhbTMwNzg3NzM=",
+      "slug": "grid-contributors",
+      "description": "Grid Contributors",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3078773",
+      "html_url": "https://github.com/orgs/hyperledger/teams/grid-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3078773/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3078773/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": false,
+        "triage": true,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Grid Maintainers",
+    "id": 3078611,
+    "node_id": "MDQ6VGVhbTMwNzg2MTE=",
+    "slug": "grid-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3078611",
+    "html_url": "https://github.com/orgs/hyperledger/teams/grid-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3078611/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3078611/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Grid Contributors",
+      "id": 3078773,
+      "node_id": "MDQ6VGVhbTMwNzg3NzM=",
+      "slug": "grid-contributors",
+      "description": "Grid Contributors",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3078773",
+      "html_url": "https://github.com/orgs/hyperledger/teams/grid-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3078773/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3078773/repos",
+      "permission": "pull",
+      "permissions": {
+        "pull": false,
+        "triage": true,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Grid Contributors",
+    "id": 3078773,
+    "node_id": "MDQ6VGVhbTMwNzg3NzM=",
+    "slug": "grid-contributors",
+    "description": "Grid Contributors",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3078773",
+    "html_url": "https://github.com/orgs/hyperledger/teams/grid-contributors",
+    "members_url": "https://api.github.com/organizations/7657900/team/3078773/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3078773/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": false,
+      "triage": true,
+      "push": false,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Captial Markets SIG",
+    "id": 3489150,
+    "node_id": "MDQ6VGVhbTM0ODkxNTA=",
+    "slug": "captial-markets-sig",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3489150",
+    "html_url": "https://github.com/orgs/hyperledger/teams/captial-markets-sig",
+    "members_url": "https://api.github.com/organizations/7657900/team/3489150/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3489150/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

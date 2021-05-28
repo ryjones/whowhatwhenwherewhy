@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cello Analytics Maintainers",
+    "id": 3386748,
+    "node_id": "MDQ6VGVhbTMzODY3NDg=",
+    "slug": "cello-analytics-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3386748",
+    "html_url": "https://github.com/orgs/hyperledger/teams/cello-analytics-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3386748/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3386748/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Cello Contributors",
+      "id": 3386746,
+      "node_id": "MDQ6VGVhbTMzODY3NDY=",
+      "slug": "cello-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3386746",
+      "html_url": "https://github.com/orgs/hyperledger/teams/cello-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3386746/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3386746/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Cello Admins",
+    "id": 3411396,
+    "node_id": "MDQ6VGVhbTM0MTEzOTY=",
+    "slug": "cello-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3411396",
+    "html_url": "https://github.com/orgs/hyperledger/teams/cello-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/3411396/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3411396/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Cello Contributors",
+      "id": 3386746,
+      "node_id": "MDQ6VGVhbTMzODY3NDY=",
+      "slug": "cello-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3386746",
+      "html_url": "https://github.com/orgs/hyperledger/teams/cello-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3386746/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3386746/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

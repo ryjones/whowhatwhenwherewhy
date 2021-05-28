@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Aries Committers",
+    "id": 3252142,
+    "node_id": "MDQ6VGVhbTMyNTIxNDI=",
+    "slug": "aries-committers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3252142",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-committers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3252142/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3252142/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "aries-admins",
+    "id": 3411240,
+    "node_id": "MDQ6VGVhbTM0MTEyNDA=",
+    "slug": "aries-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3411240",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/3411240/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3411240/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "aries-askar committers",
+    "id": 4411762,
+    "node_id": "MDQ6VGVhbTQ0MTE3NjI=",
+    "slug": "aries-askar-committers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4411762",
+    "html_url": "https://github.com/orgs/hyperledger/teams/aries-askar-committers",
+    "members_url": "https://api.github.com/organizations/7657900/team/4411762/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4411762/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": false,
+      "triage": false,
+      "push": false,
+      "maintain": true,
+      "admin": false
+    },
+    "parent": {
+      "name": "Aries Contributors",
+      "id": 3251371,
+      "node_id": "MDQ6VGVhbTMyNTEzNzE=",
+      "slug": "aries-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3251371",
+      "html_url": "https://github.com/orgs/hyperledger/teams/aries-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3251371/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3251371/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

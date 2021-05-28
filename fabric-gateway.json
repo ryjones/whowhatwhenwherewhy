@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Fabric Admins",
+    "id": 3411571,
+    "node_id": "MDQ6VGVhbTM0MTE1NzE=",
+    "slug": "fabric-admins",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3411571",
+    "html_url": "https://github.com/orgs/hyperledger/teams/fabric-admins",
+    "members_url": "https://api.github.com/organizations/7657900/team/3411571/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3411571/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Fabric Maintainers",
+      "id": 3372332,
+      "node_id": "MDQ6VGVhbTMzNzIzMzI=",
+      "slug": "fabric-maintainers",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3372332",
+      "html_url": "https://github.com/orgs/hyperledger/teams/fabric-maintainers",
+      "members_url": "https://api.github.com/organizations/7657900/team/3372332/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3372332/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "fabric-gateway-maintainers",
+    "id": 4322144,
+    "node_id": "MDQ6VGVhbTQzMjIxNDQ=",
+    "slug": "fabric-gateway-maintainers",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4322144",
+    "html_url": "https://github.com/orgs/hyperledger/teams/fabric-gateway-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/4322144/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4322144/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Fabric contributors",
+      "id": 1985392,
+      "node_id": "MDQ6VGVhbTE5ODUzOTI=",
+      "slug": "fabric-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1985392",
+      "html_url": "https://github.com/orgs/hyperledger/teams/fabric-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1985392/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1985392/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]

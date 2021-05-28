@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Besu Contributors",
+    "id": 3395333,
+    "node_id": "MDQ6VGVhbTMzOTUzMzM=",
+    "slug": "besu-contributors",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3395333",
+    "html_url": "https://github.com/orgs/hyperledger/teams/besu-contributors",
+    "members_url": "https://api.github.com/organizations/7657900/team/3395333/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3395333/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Besu Admin",
+    "id": 3398501,
+    "node_id": "MDQ6VGVhbTMzOTg1MDE=",
+    "slug": "besu-admin",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3398501",
+    "html_url": "https://github.com/orgs/hyperledger/teams/besu-admin",
+    "members_url": "https://api.github.com/organizations/7657900/team/3398501/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3398501/repos",
+    "permission": "admin",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": true
+    },
+    "parent": {
+      "name": "Besu Contributors",
+      "id": 3395333,
+      "node_id": "MDQ6VGVhbTMzOTUzMzM=",
+      "slug": "besu-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3395333",
+      "html_url": "https://github.com/orgs/hyperledger/teams/besu-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3395333/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3395333/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": true,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Besu Maintainers",
+    "id": 3573083,
+    "node_id": "MDQ6VGVhbTM1NzMwODM=",
+    "slug": "besu-maintainers",
+    "description": "This list should exactly match what is in https://github.com/hyperledger/besu/blob/master/MAINTAINERS.md",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/3573083",
+    "html_url": "https://github.com/orgs/hyperledger/teams/besu-maintainers",
+    "members_url": "https://api.github.com/organizations/7657900/team/3573083/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/3573083/repos",
+    "permission": "push",
+    "permissions": {
+      "pull": true,
+      "triage": false,
+      "push": true,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "Besu Contributors",
+      "id": 3395333,
+      "node_id": "MDQ6VGVhbTMzOTUzMzM=",
+      "slug": "besu-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/3395333",
+      "html_url": "https://github.com/orgs/hyperledger/teams/besu-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/3395333/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3395333/repos",
+      "permission": "push",
+      "permissions": {
+        "pull": true,
+        "triage": false,
+        "push": true,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  },
+  {
+    "name": "Besu Triage",
+    "id": 4614534,
+    "node_id": "MDQ6VGVhbTQ2MTQ1MzQ=",
+    "slug": "besu-triage",
+    "description": "",
+    "privacy": "closed",
+    "url": "https://api.github.com/organizations/7657900/team/4614534",
+    "html_url": "https://github.com/orgs/hyperledger/teams/besu-triage",
+    "members_url": "https://api.github.com/organizations/7657900/team/4614534/members{/member}",
+    "repositories_url": "https://api.github.com/organizations/7657900/team/4614534/repos",
+    "permission": "pull",
+    "permissions": {
+      "pull": false,
+      "triage": true,
+      "push": false,
+      "maintain": false,
+      "admin": false
+    },
+    "parent": {
+      "name": "0 Hyperledger contributors",
+      "id": 1250312,
+      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
+      "slug": "0-hyperledger-contributors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/7657900/team/1250312",
+      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
+      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
+      "permission": null,
+      "permissions": {
+        "pull": false,
+        "triage": false,
+        "push": false,
+        "maintain": false,
+        "admin": false
+      }
+    }
+  }
+]
