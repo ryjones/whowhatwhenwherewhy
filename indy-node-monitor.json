@@ -99,22 +99,22 @@
       "admin": false
     },
     "parent": {
-      "name": "0 Hyperledger contributors",
-      "id": 1250312,
-      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
-      "slug": "0-hyperledger-contributors",
+      "name": "Indy Common",
+      "id": 2403927,
+      "node_id": "MDQ6VGVhbTI0MDM5Mjc=",
+      "slug": "indy-common",
       "description": "",
       "privacy": "closed",
-      "url": "https://api.github.com/organizations/7657900/team/1250312",
-      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
-      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
-      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
-      "permission": null,
+      "url": "https://api.github.com/organizations/7657900/team/2403927",
+      "html_url": "https://github.com/orgs/hyperledger/teams/indy-common",
+      "members_url": "https://api.github.com/organizations/7657900/team/2403927/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/2403927/repos",
+      "permission": "push",
       "permissions": {
         "pull": false,
         "triage": false,
         "push": false,
-        "maintain": false,
+        "maintain": true,
         "admin": false
       }
     }

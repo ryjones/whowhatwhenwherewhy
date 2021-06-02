@@ -1,3 +1,5 @@
+# grep full_name hyperledger-repos.json|colrm 1 28|awk '{print "f "$1}'|sed -e 's/",//' >> used
+
 function f(){
   curl -H "Authorization: token $GITHUB_TOKEN" -X GET https://api.github.com/repos/hyperledger/$1/teams > $1.json
 }

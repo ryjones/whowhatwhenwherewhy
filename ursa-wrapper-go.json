@@ -99,22 +99,22 @@
       "admin": false
     },
     "parent": {
-      "name": "0 Hyperledger contributors",
-      "id": 1250312,
-      "node_id": "MDQ6VGVhbTEyNTAzMTI=",
-      "slug": "0-hyperledger-contributors",
+      "name": "Ursa Maintainers",
+      "id": 3010542,
+      "node_id": "MDQ6VGVhbTMwMTA1NDI=",
+      "slug": "ursa-maintainers",
       "description": "",
       "privacy": "closed",
-      "url": "https://api.github.com/organizations/7657900/team/1250312",
-      "html_url": "https://github.com/orgs/hyperledger/teams/0-hyperledger-contributors",
-      "members_url": "https://api.github.com/organizations/7657900/team/1250312/members{/member}",
-      "repositories_url": "https://api.github.com/organizations/7657900/team/1250312/repos",
-      "permission": null,
+      "url": "https://api.github.com/organizations/7657900/team/3010542",
+      "html_url": "https://github.com/orgs/hyperledger/teams/ursa-maintainers",
+      "members_url": "https://api.github.com/organizations/7657900/team/3010542/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/7657900/team/3010542/repos",
+      "permission": "push",
       "permissions": {
         "pull": false,
         "triage": false,
         "push": false,
-        "maintain": false,
+        "maintain": true,
         "admin": false
       }
     }
