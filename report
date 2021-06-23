@@ -1,0 +1,652 @@
+1985392 team:
+{"name":"Fabric contributors","id":1985392}
+
+1985392 repos:
+fabric-chaincode-evm.json
+fabric-chaincode-go.json
+fabric-chaincode-java.json
+fabric-chaincode-node.json
+fabric-contract-api-go.json
+fabric-docs-i18n.json
+fabric-gateway-java.json
+fabric-gateway.json
+fabric-private-chaincode.json
+fabric-sdk-go.json
+fabric-sdk-java.json
+fabric-sdk-node.json
+fabric-sdk-py.json
+fabric-website.json
+
+1985392 members:
+    "login": "dubek",
+    "login": "knibals",
+    "login": "ghaskins",
+    "login": "nhoriguchi",
+    "login": "satomicchy",
+    "login": "ryjones",
+    "login": "siburu",
+    "login": "shimos",
+    "login": "diegomasini",
+    "login": "nekia",
+    "login": "rbuysse",
+    "login": "mbrandenburger",
+    "login": "GuillaumeCisco",
+    "login": "claudiocebpaz",
+    "login": "troyronda",
+    "login": "yeasy",
+    "login": "swetharepakula",
+    "login": "dongwangdw",
+    "login": "vaporos",
+    "login": "C0rWin",
+    "login": "binhn",
+    "login": "guoger",
+    "login": "jt-nti",
+    "login": "christo4ferris",
+    "login": "sykesm",
+    "login": "bestbeforetoday",
+    "login": "bpbuch",
+    "login": "mastersingh24",
+    "login": "camohe90",
+    "login": "lehors",
+
+
+3372332 team:
+{"name":"Fabric Maintainers","id":3372332}
+
+3372332 repos:
+fabric-amcl.json
+fabric-baseimage.json
+fabric-ca.json
+fabric-chaincode-evm.json
+fabric-chaincode-go.json
+fabric-chaincode-java.json
+fabric-chaincode-node.json
+fabric-cli.json
+fabric-config.json
+fabric-contract-api-go.json
+fabric-docs-i18n.json
+fabric-gateway-java.json
+fabric-gateway.json
+fabric-lib-go.json
+fabric-private-chaincode.json
+fabric-protos-go.json
+fabric-protos.json
+fabric-rfcs.json
+fabric-samples.json
+fabric-sdk-go.json
+fabric-sdk-java.json
+fabric-sdk-node.json
+fabric-sdk-py.json
+fabric-test.json
+fabric-website.json
+fabric.json
+
+3372332 members:
+    "login": "ghaskins",
+    "login": "ryjones",
+    "login": "GuillaumeCisco",
+    "login": "troyronda",
+    "login": "yeasy",
+    "login": "swetharepakula",
+    "login": "dongwangdw",
+    "login": "C0rWin",
+    "login": "binhn",
+    "login": "guoger",
+    "login": "jt-nti",
+    "login": "christo4ferris",
+    "login": "sykesm",
+    "login": "bestbeforetoday",
+    "login": "bpbuch",
+    "login": "mastersingh24",
+    "login": "lehors",
+    "login": "mbwhite",
+    "login": "dexhunter",
+    "login": "jyellick",
+    "login": "yacovm",
+    "login": "andrew-coleman",
+    "login": "cendhu",
+    "login": "ODOWDAIBM",
+    "login": "alikic",
+    "login": "zhaochy1990",
+    "login": "awjh",
+    "login": "MHBauer",
+    "login": "muralisrini",
+    "login": "manish-sethi",
+
+
+3411571 team:
+{"name":"Fabric Admins","id":3411571}
+
+3411571 repos:
+fabric-amcl.json
+fabric-baseimage.json
+fabric-ca.json
+fabric-chaincode-evm.json
+fabric-chaincode-go.json
+fabric-chaincode-java.json
+fabric-chaincode-node.json
+fabric-cli.json
+fabric-config.json
+fabric-contract-api-go.json
+fabric-docs-i18n.json
+fabric-gateway-java.json
+fabric-gateway.json
+fabric-lib-go.json
+fabric-private-chaincode.json
+fabric-protos-go.json
+fabric-protos.json
+fabric-rfcs.json
+fabric-samples.json
+fabric-sdk-go.json
+fabric-sdk-java.json
+fabric-sdk-node.json
+fabric-sdk-py.json
+fabric-test.json
+fabric-website.json
+fabric.json
+
+3411571 members:
+    "login": "christo4ferris",
+    "login": "sykesm",
+    "login": "mastersingh24",
+    "login": "denyeart",
+    "login": "hlfdev-azp",
+
+
+3427965 team:
+{"name":"fabric-ca maintainers","id":3427965}
+
+3427965 repos:
+fabric-ca.json
+
+3427965 members:
+    "login": "sykesm",
+    "login": "mastersingh24",
+    "login": "saad-karim",
+    "login": "denyeart",
+
+
+3430169 team:
+{"name":"fabric-chaincode-evm maintainers","id":3430169}
+
+3430169 repos:
+fabric-chaincode-evm.json
+
+3430169 members:
+    "login": "swetharepakula",
+    "login": "guoger",
+    "login": "christo4ferris",
+    "login": "mastersingh24",
+    "login": "MHBauer",
+    "login": "muralisrini",
+
+
+3438568 team:
+{"name":"fabric-sdk-go maintainers","id":3438568}
+
+3438568 repos:
+fabric-sdk-go.json
+
+3438568 members:
+    "login": "troyronda",
+    "login": "mastersingh24",
+    "login": "andrew-coleman",
+    "login": "alikic",
+    "login": "fqutishat",
+    "login": "denyeart",
+    "login": "bstasyszyn",
+
+
+3482714 team:
+{"name":"fabric-chaincode-node maintainers","id":3482714}
+
+3482714 repos:
+fabric-chaincode-node.json
+
+3482714 members:
+    "login": "jt-nti",
+    "login": "mbwhite",
+    "login": "zhaochy1990",
+    "login": "awjh",
+    "login": "denyeart",
+    "login": "harrisob",
+    "login": "davidkel",
+    "login": "awjh-ibm",
+
+
+3482763 team:
+{"name":"fabric-samples maintainers","id":3482763}
+
+3482763 repos:
+fabric-samples.json
+
+3482763 members:
+    "login": "christo4ferris",
+    "login": "mastersingh24",
+    "login": "lehors",
+    "login": "mbwhite",
+    "login": "jyellick",
+    "login": "nikhil550",
+    "login": "denyeart",
+    "login": "harrisob",
+
+
+3486314 team:
+{"name":"fabric-sdk-java maintainers","id":3486314}
+
+3486314 repos:
+fabric-sdk-java.json
+
+3486314 members:
+    "login": "bestbeforetoday",
+    "login": "mastersingh24",
+    "login": "andrew-coleman",
+    "login": "denyeart",
+
+
+3490323 team:
+{"name":"fabric-gateway-java maintainers","id":3490323}
+
+3490323 repos:
+fabric-gateway-java.json
+
+3490323 members:
+    "login": "bestbeforetoday",
+    "login": "andrew-coleman",
+    "login": "denyeart",
+
+
+3490690 team:
+{"name":"fabric-chaincode-java maintainers","id":3490690}
+
+3490690 repos:
+fabric-chaincode-java.json
+
+3490690 members:
+    "login": "C0rWin",
+    "login": "jt-nti",
+    "login": "mastersingh24",
+    "login": "mbwhite",
+    "login": "gennadylaventman",
+    "login": "denyeart",
+
+
+3494435 team:
+{"name":"fabric-cli maintainers","id":3494435}
+
+3494435 repos:
+fabric-cli.json
+
+3494435 members:
+    "login": "troyronda",
+    "login": "bpbuch",
+    "login": "lehors",
+    "login": "denyeart",
+
+
+3518571 team:
+{"name":"fabric-sdk-node maintainers","id":3518571}
+
+3518571 repos:
+fabric-sdk-node.json
+
+3518571 members:
+    "login": "christo4ferris",
+    "login": "bestbeforetoday",
+    "login": "mastersingh24",
+    "login": "andrew-coleman",
+    "login": "zhaochy1990",
+    "login": "denyeart",
+    "login": "harrisob",
+    "login": "heatherlp",
+
+
+3519656 team:
+{"name":"fabric-sdk-py maintainers","id":3519656}
+
+3519656 repos:
+fabric-sdk-py.json
+
+3519656 members:
+    "login": "GuillaumeCisco",
+    "login": "yeasy",
+    "login": "dongwangdw",
+    "login": "dexhunter",
+    "login": "denyeart",
+
+
+3519979 team:
+{"name":"fabric-lib-go maintainers","id":3519979}
+
+3519979 repos:
+fabric-lib-go.json
+
+3519979 members:
+    "login": "christo4ferris",
+    "login": "sykesm",
+    "login": "mastersingh24",
+    "login": "denyeart",
+
+
+3523438 team:
+{"name":"fabric-release-maintainers","id":3523438}
+
+3523438 repos:
+fabric-amcl.json
+fabric-baseimage.json
+fabric-ca.json
+fabric-chaincode-evm.json
+fabric-chaincode-go.json
+fabric-chaincode-java.json
+fabric-chaincode-node.json
+fabric-cli.json
+fabric-config.json
+fabric-contract-api-go.json
+fabric-docs-i18n.json
+fabric-gateway-java.json
+fabric-lib-go.json
+fabric-protos-go.json
+fabric-protos.json
+fabric-rfcs.json
+fabric-samples.json
+fabric-sdk-go.json
+fabric-sdk-java.json
+fabric-sdk-node.json
+fabric-sdk-py.json
+fabric-test.json
+fabric-website.json
+fabric.json
+
+3523438 members:
+    "login": "christo4ferris",
+    "login": "mastersingh24",
+    "login": "denyeart",
+
+
+3525150 team:
+{"name":"fabric-contract-api-go maintainers","id":3525150}
+
+3525150 repos:
+fabric-contract-api-go.json
+
+3525150 members:
+    "login": "jt-nti",
+    "login": "awjh",
+    "login": "denyeart",
+    "login": "awjh-ibm",
+    "login": "heatherlp",
+
+
+3552621 team:
+{"name":"fabric-test-maintainers","id":3552621}
+
+3552621 repos:
+fabric-test.json
+
+3552621 members:
+    "login": "dongmingh",
+    "login": "denyeart",
+    "login": "suryalnvs",
+
+
+3584087 team:
+{"name":"fabric-core-maintainers","id":3584087}
+
+3584087 repos:
+fabric-chaincode-go.json
+fabric-config.json
+fabric-docs-i18n.json
+fabric-protos-go.json
+fabric-protos.json
+fabric-rfcs.json
+fabric-sdk-py.json
+fabric.json
+
+3584087 members:
+    "login": "C0rWin",
+    "login": "guoger",
+    "login": "christo4ferris",
+    "login": "sykesm",
+    "login": "mastersingh24",
+    "login": "jyellick",
+    "login": "yacovm",
+    "login": "cendhu",
+    "login": "manish-sethi",
+    "login": "denyeart",
+    "login": "wlahti",
+    "login": "ale-linux",
+
+
+3608374 team:
+{"name":"fabric-test toolchain maintainers","id":3608374}
+
+3608374 repos:
+fabric-test.json
+
+3608374 members:
+    "login": "mbwhite",
+    "login": "awjh",
+    "login": "denyeart",
+    "login": "awjh-ibm",
+
+
+3615544 team:
+{"name":"fabric-core-doc-maintainers","id":3615544}
+
+3615544 repos:
+fabric-ca.json
+fabric-config.json
+fabric-docs-i18n.json
+fabric.json
+
+3615544 members:
+    "login": "ryjones",
+    "login": "ODOWDAIBM",
+    "login": "nikhil550",
+    "login": "denyeart",
+    "login": "joealewine",
+    "login": "denali49",
+    "login": "pamandrejko",
+
+
+3651930 team:
+{"name":"Security Alerts","id":3651930}
+
+3651930 repos:
+fabric-chaincode-evm.json
+fabric-chaincode-go.json
+fabric-chaincode-java.json
+fabric-chaincode-node.json
+fabric-contract-api-go.json
+fabric-gateway-java.json
+fabric-sdk-go.json
+fabric-sdk-java.json
+fabric-sdk-node.json
+fabric-sdk-py.json
+
+3651930 members:
+    "login": "ryjones",
+    "login": "lesleyannjordan",
+    "login": "heatherlp",
+
+
+3896269 team:
+{"name":"fabric-ja_JP-doc-maintainers","id":3896269}
+
+3896269 repos:
+fabric-docs-i18n.json
+
+3896269 members:
+    "login": "nhoriguchi",
+    "login": "satomicchy",
+    "login": "siburu",
+    "login": "shimos",
+    "login": "nekia",
+    "login": "ODOWDAIBM",
+    "login": "T-Kondou",
+    "login": "nishishita-satoshi",
+    "login": "pamandrejko",
+    "login": "tomo25",
+    "login": "naonishijima",
+    "login": "yukiknd",
+    "login": "satota2",
+    "login": "aratsu-i",
+    "login": "ait-fujie",
+    "login": "YutaAkizuki",
+
+
+3896270 team:
+{"name":"fabric-ml_IN-doc-maintainers","id":3896270}
+
+3896270 repos:
+fabric-docs-i18n.json
+
+3896270 members:
+    "login": "ODOWDAIBM",
+    "login": "aneenaalexander",
+    "login": "jeffthomas2000",
+
+
+3896271 team:
+{"name":"fabric-pt_BR-doc-maintainers","id":3896271}
+
+3896271 repos:
+fabric-docs-i18n.json
+
+3896271 members:
+    "login": "ODOWDAIBM",
+    "login": "caduellery",
+    "login": "pemtajo",
+    "login": "rst77",
+    "login": "mayktu",
+    "login": "Gooarp",
+    "login": "Luanamalb",
+
+
+3896272 team:
+{"name":"fabric-zh_CN-doc-maintainers","id":3896272}
+
+3896272 repos:
+fabric-docs-i18n.json
+
+3896272 members:
+    "login": "yeasy",
+    "login": "guoger",
+    "login": "davidkhala",
+    "login": "ODOWDAIBM",
+    "login": "stone-ch",
+    "login": "JulienGuo",
+
+
+3956644 team:
+{"name":"fabric-es-doc-maintainers","id":3956644}
+
+3956644 repos:
+fabric-docs-i18n.json
+
+3956644 members:
+    "login": "claudiocebpaz",
+    "login": "camohe90",
+    "login": "ODOWDAIBM",
+    "login": "mtnieto",
+    "login": "pamandrejko",
+
+
+3971883 team:
+{"name":"fabric-ru_ru-doc-maintainers","id":3971883}
+
+3971883 repos:
+fabric-docs-i18n.json
+
+3971883 members:
+    "login": "ODOWDAIBM",
+    "login": "SenchoPens",
+    "login": "mmanchkin",
+
+
+3998428 team:
+{"name":"fabric-website-maintainers","id":3998428}
+
+3998428 repos:
+fabric-website.json
+
+3998428 members:
+    "login": "denyeart",
+    "login": "erin-hughes",
+
+
+4071885 team:
+{"name":"fabric-ta_IN-doc-maintainers","id":4071885}
+
+4071885 repos:
+fabric-docs-i18n.json
+
+4071885 members:
+    "login": "ODOWDAIBM",
+    "login": "pamandrejko",
+    "login": "ravinayag",
+
+
+4322144 team:
+{"name":"fabric-gateway-maintainers","id":4322144}
+
+4322144 repos:
+fabric-gateway.json
+
+4322144 members:
+    "login": "bestbeforetoday",
+    "login": "andrew-coleman",
+
+
+4532816 team:
+{"name":"fabric-fr_fr-doc-maintainers","id":4532816}
+
+4532816 repos:
+fabric-docs-i18n.json
+
+4532816 members:
+    "login": "knibals",
+
+
+4589088 team:
+{"name":"fabric-fa_IR-doc-maintainers","id":4589088}
+
+4589088 repos:
+fabric-docs-i18n.json
+
+4589088 members:
+    "login": "mohamadsolouki",
+
+
+4589119 team:
+{"name":"fabric-it_IT-doc-maintainers","id":4589119}
+
+4589119 repos:
+fabric-docs-i18n.json
+
+4589119 members:
+    "login": "riki95",
+
+
+4598901 team:
+{"name":"fabric-ar-doc-maintainers","id":4598901}
+
+4598901 repos:
+fabric-docs-i18n.json
+
+4598901 members:
+    "login": "ryjones",
+    "login": "aakzubaidi",
+
+
+4763919 team:
+{"name":"fabric-private-chaincode-committers","id":4763919}
+
+4763919 repos:
+fabric-private-chaincode.json
+
+4763919 members:
+    "login": "mbrandenburger",
+    "login": "bvavala",
+
+
