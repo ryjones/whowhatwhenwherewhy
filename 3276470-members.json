@@ -1,0 +1,22 @@
+[
+  {
+    "login": "mikelodder7",
+    "id": 717879,
+    "node_id": "MDQ6VXNlcjcxNzg3OQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/717879?u=f5cb952b24202c91034f09327cfac0ef8d51a096&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mikelodder7",
+    "html_url": "https://github.com/mikelodder7",
+    "followers_url": "https://api.github.com/users/mikelodder7/followers",
+    "following_url": "https://api.github.com/users/mikelodder7/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mikelodder7/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mikelodder7/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mikelodder7/subscriptions",
+    "organizations_url": "https://api.github.com/users/mikelodder7/orgs",
+    "repos_url": "https://api.github.com/users/mikelodder7/repos",
+    "events_url": "https://api.github.com/users/mikelodder7/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mikelodder7/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

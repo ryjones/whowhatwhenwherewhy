@@ -1,0 +1,22 @@
+[
+  {
+    "login": "JamesKEbert",
+    "id": 30242284,
+    "node_id": "MDQ6VXNlcjMwMjQyMjg0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/30242284?u=3fe6f18d0abea27a0dd9fd8ac3318a2ddcce9f8f&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JamesKEbert",
+    "html_url": "https://github.com/JamesKEbert",
+    "followers_url": "https://api.github.com/users/JamesKEbert/followers",
+    "following_url": "https://api.github.com/users/JamesKEbert/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JamesKEbert/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JamesKEbert/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JamesKEbert/subscriptions",
+    "organizations_url": "https://api.github.com/users/JamesKEbert/orgs",
+    "repos_url": "https://api.github.com/users/JamesKEbert/repos",
+    "events_url": "https://api.github.com/users/JamesKEbert/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JamesKEbert/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

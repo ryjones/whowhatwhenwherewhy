@@ -1,0 +1,22 @@
+[
+  {
+    "login": "riki95",
+    "id": 33634093,
+    "node_id": "MDQ6VXNlcjMzNjM0MDkz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/33634093?u=7f9cbaf206628c61698ab5834fa939ddffded06e&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/riki95",
+    "html_url": "https://github.com/riki95",
+    "followers_url": "https://api.github.com/users/riki95/followers",
+    "following_url": "https://api.github.com/users/riki95/following{/other_user}",
+    "gists_url": "https://api.github.com/users/riki95/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/riki95/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/riki95/subscriptions",
+    "organizations_url": "https://api.github.com/users/riki95/orgs",
+    "repos_url": "https://api.github.com/users/riki95/repos",
+    "events_url": "https://api.github.com/users/riki95/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/riki95/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

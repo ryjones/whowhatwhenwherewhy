@@ -1,0 +1,42 @@
+[
+  {
+    "login": "knibals",
+    "id": 26562,
+    "node_id": "MDQ6VXNlcjI2NTYy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/26562?u=8339913e3622ba38eab8ac0845684a98a3a8bc1c&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/knibals",
+    "html_url": "https://github.com/knibals",
+    "followers_url": "https://api.github.com/users/knibals/followers",
+    "following_url": "https://api.github.com/users/knibals/following{/other_user}",
+    "gists_url": "https://api.github.com/users/knibals/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/knibals/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/knibals/subscriptions",
+    "organizations_url": "https://api.github.com/users/knibals/orgs",
+    "repos_url": "https://api.github.com/users/knibals/repos",
+    "events_url": "https://api.github.com/users/knibals/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/knibals/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "ODOWDAIBM",
+    "id": 8831317,
+    "node_id": "MDQ6VXNlcjg4MzEzMTc=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8831317?u=35c8c89df6807bf46ce73450cfcd7d7afc6c9893&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ODOWDAIBM",
+    "html_url": "https://github.com/ODOWDAIBM",
+    "followers_url": "https://api.github.com/users/ODOWDAIBM/followers",
+    "following_url": "https://api.github.com/users/ODOWDAIBM/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ODOWDAIBM/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ODOWDAIBM/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ODOWDAIBM/subscriptions",
+    "organizations_url": "https://api.github.com/users/ODOWDAIBM/orgs",
+    "repos_url": "https://api.github.com/users/ODOWDAIBM/repos",
+    "events_url": "https://api.github.com/users/ODOWDAIBM/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ODOWDAIBM/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

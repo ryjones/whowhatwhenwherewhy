@@ -1,0 +1,184 @@
+{"name":"0 Hyperledger contributors","id":1250312}
+{"name":"1-0 Release Maintainers","id":2695259}
+{"name":"Aries Agent Committers","id":3252144}
+{"name":"Aries Committers","id":3252142}
+{"name":"Aries Contributors","id":3251371}
+{"name":"Aries RFC committers","id":3252138}
+{"name":"Aries SDK committers","id":3276353}
+{"name":"aries-acapy-controllers committers","id":3677638}
+{"name":"aries-acapy-plugin-toolbox committers","id":3533261}
+{"name":"aries-admins","id":3411240}
+{"name":"aries-agent-test-harness committers","id":4016575}
+{"name":"aries-ams-postgres committers","id":3474133}
+{"name":"aries-ams-sqlite committers","id":3474132}
+{"name":"aries-askar committers","id":4411762}
+{"name":"aries-cloudagent-python committers","id":3297635}
+{"name":"aries-core committers","id":3474131}
+{"name":"aries-dri-peer committers","id":3474128}
+{"name":"aries-framework-dotnet committers","id":3368841}
+{"name":"aries-framework-go-committers","id":3320909}
+{"name":"aries-framework-go-ext committers","id":4154853}
+{"name":"aries-framework-javascript committers","id":3533131}
+{"name":"aries-framework-rs maintainers","id":4182931}
+{"name":"aries-mobile-agent-react-native admins","id":4636549}
+{"name":"aries-mobile-agent-react-native committers","id":4636557}
+{"name":"aries-mobileagent-xamarin committers","id":3736354}
+{"name":"aries-protocol-test-suite committers","id":3329868}
+{"name":"aries-sdk-android committers","id":3276470}
+{"name":"aries-sdk-dotnet committers","id":3276452}
+{"name":"aries-sdk-go committers","id":3276436}
+{"name":"aries-sdk-ios committers","id":3276439}
+{"name":"aries-sdk-java committers","id":3276443}
+{"name":"aries-sdk-javascript committers","id":3276446}
+{"name":"aries-sdk-python Committers","id":3276423}
+{"name":"aries-sdk-ruby committers","id":3276434}
+{"name":"aries-staticagent-python committers","id":3297637}
+{"name":"aries-toolbox committers","id":3533267}
+{"name":"aries-vcx-maintainers","id":4336958}
+{"name":"aries-vdri committers","id":3474130}
+{"name":"aries-wallet maintainers","id":3432736}
+{"name":"Avalon Maintainers","id":3435124}
+{"name":"Besu Admin","id":3398501}
+{"name":"Besu Contributors","id":3395333}
+{"name":"Besu Docs Maintainers","id":3469785}
+{"name":"Besu Maintainers","id":3573083}
+{"name":"Besu Triage","id":4614534}
+{"name":"besu-native-maintainers","id":3751275}
+{"name":"Blockchain Explorer Committers","id":3386502}
+{"name":"Burrow Admins","id":2892013}
+{"name":"Burrow Contributors","id":3354750}
+{"name":"burrow maintainers","id":2328687}
+{"name":"Cactus maintainers","id":3808369}
+{"name":"Cactus Security Administration","id":4296111}
+{"name":"cactus-contributors","id":4625176}
+{"name":"Cactus-Contributors-Accenture","id":4476435}
+{"name":"Caliper Committers","id":2693913}
+{"name":"Captial Markets SIG","id":3489150}
+{"name":"Cello Admins","id":3411396}
+{"name":"Cello Analytics Maintainers","id":3386748}
+{"name":"Cello Contributors","id":3386746}
+{"name":"Cello Maintainers","id":3386747}
+{"name":"Education Maintainers","id":2454345}
+{"name":"Fabric Admins","id":3411571}
+{"name":"Fabric contributors","id":1985392}
+{"name":"Fabric Maintainers","id":3372332}
+{"name":"fabric-ar-doc-maintainers","id":4598901}
+{"name":"fabric-ca maintainers","id":3427965}
+{"name":"fabric-chaincode-evm maintainers","id":3430169}
+{"name":"fabric-chaincode-java maintainers","id":3490690}
+{"name":"fabric-chaincode-node maintainers","id":3482714}
+{"name":"fabric-chaintool maintainers","id":3412739}
+{"name":"fabric-cli maintainers","id":3494435}
+{"name":"fabric-contract-api-go maintainers","id":3525150}
+{"name":"fabric-core-doc-maintainers","id":3615544}
+{"name":"fabric-core-maintainers","id":3584087}
+{"name":"fabric-es-doc-maintainers","id":3956644}
+{"name":"fabric-fa_IR-doc-maintainers","id":4589088}
+{"name":"fabric-fr_fr-doc-maintainers","id":4532816}
+{"name":"fabric-fr_FR-maintainers","id":3973149}
+{"name":"fabric-gateway-java maintainers","id":3490323}
+{"name":"fabric-gateway-maintainers","id":4322144}
+{"name":"fabric-it_IT-doc-maintainers","id":4589119}
+{"name":"fabric-ja_JP-doc-maintainers","id":3896269}
+{"name":"fabric-lib-go maintainers","id":3519979}
+{"name":"fabric-ml_IN-doc-maintainers","id":3896270}
+{"name":"fabric-private-chaincode-committers","id":4763919}
+{"name":"fabric-pt_BR-doc-maintainers","id":3896271}
+{"name":"fabric-release-maintainers","id":3523438}
+{"name":"fabric-ru_ru-doc-maintainers","id":3971883}
+{"name":"fabric-samples maintainers","id":3482763}
+{"name":"fabric-sdk-go maintainers","id":3438568}
+{"name":"fabric-sdk-java maintainers","id":3486314}
+{"name":"fabric-sdk-node maintainers","id":3518571}
+{"name":"fabric-sdk-py maintainers","id":3519656}
+{"name":"fabric-ta_IN-doc-maintainers","id":4071885}
+{"name":"fabric-test toolchain maintainers","id":3608374}
+{"name":"fabric-test-maintainers","id":3552621}
+{"name":"fabric-website-maintainers","id":3998428}
+{"name":"fabric-zh_CN-doc-maintainers","id":3896272}
+{"name":"Grid Admins","id":3074504}
+{"name":"Grid Contributors","id":3078773}
+{"name":"Grid Maintainers","id":3078611}
+{"name":"Grid RFCs Admins","id":3364990}
+{"name":"Grid RFCs Maintainers","id":3364954}
+{"name":"hubot-committers","id":2679706}
+{"name":"Identity WG","id":3489147}
+{"name":"Indy Agent Maintainers","id":2753219}
+{"name":"Indy CI","id":2403923}
+{"name":"Indy CI Maintainers","id":2600516}
+{"name":"Indy Common","id":2403927}
+{"name":"Indy RFC Maintainers","id":2654935}
+{"name":"Indy SDK Contributors","id":2371977}
+{"name":"Indy SDK Python maintainers","id":3199798}
+{"name":"Indy Test Automation","id":2972929}
+{"name":"indy-admin","id":2379183}
+{"name":"indy-did-method maintainers","id":4050688}
+{"name":"indy-dri-aries committers","id":3474129}
+{"name":"indy-node-monitor maintainers","id":3992308}
+{"name":"indy-plenum-maintainers","id":3781851}
+{"name":"indy-shared-rs-maintainers","id":4411541}
+{"name":"indy-vdr-maintainers","id":3673674}
+{"name":"Iroha Contributors","id":2166962}
+{"name":"iroha crypto","id":2640123}
+{"name":"Iroha Maintainers","id":2477746}
+{"name":"iroha-admin","id":2379181}
+{"name":"iroha-android","id":2627762}
+{"name":"iroha-docs-l10n-maintainers","id":4002312}
+{"name":"iroha-dotnet maintainers","id":2627759}
+{"name":"iroha-ios","id":2627757}
+{"name":"iroha-java","id":4157866}
+{"name":"iroha-javascript","id":2627763}
+{"name":"iroha-python","id":2627761}
+{"name":"iroha-scala","id":2627758}
+{"name":"iroha-tui-client-committers","id":3494006}
+{"name":"learning-materials-dev committers","id":3610485}
+{"name":"LF Employees","id":3280809}
+{"name":"Quilt Maintainers","id":2526082}
+{"name":"Robots","id":3512775}
+{"name":"Sawtooth Admins","id":2573268}
+{"name":"Sawtooth Ansible Maintainers","id":3087297}
+{"name":"Sawtooth Contrib Maintainers","id":4633335}
+{"name":"Sawtooth Contributors","id":2573251}
+{"name":"Sawtooth Core Admins","id":2011543}
+{"name":"Sawtooth Core Committers","id":2763321}
+{"name":"Sawtooth Core Contributors","id":2129185}
+{"name":"Sawtooth Core Maintainers","id":2740785}
+{"name":"Sawtooth Devmode Maintainers","id":3089186}
+{"name":"Sawtooth Education Maintainers","id":2759016}
+{"name":"Sawtooth Explorer Maintainers","id":2573246}
+{"name":"Sawtooth Marketplace Maintainers","id":3088542}
+{"name":"Sawtooth NEXT Committers","id":2906803}
+{"name":"Sawtooth NEXT Contributors","id":2896457}
+{"name":"Sawtooth NEXT Developers","id":3139072}
+{"name":"Sawtooth NEXT Maintainers","id":3084532}
+{"name":"Sawtooth PBFT Maintainers","id":2951337}
+{"name":"Sawtooth Poet Maintainers","id":3089297}
+{"name":"Sawtooth Raft Maintainers","id":2890040}
+{"name":"Sawtooth RFCs Maintainers","id":2742789}
+{"name":"Sawtooth Sabre Maintainers","id":2751965}
+{"name":"Sawtooth SDK CXX Maintainers","id":3089337}
+{"name":"Sawtooth SDK dotnet Maintainers","id":2740771}
+{"name":"Sawtooth SDK Go Maintainers","id":3089344}
+{"name":"Sawtooth SDK Java Maintainers","id":3089349}
+{"name":"Sawtooth SDK Javascript Maintainers","id":3089353}
+{"name":"Sawtooth SDK Python Maintainers","id":3089374}
+{"name":"Sawtooth SDK Rust Maintainers","id":3089355}
+{"name":"Sawtooth SDK Swift Maintainers","id":3201764}
+{"name":"Sawtooth Seth Maintainers","id":2812692}
+{"name":"Sawtooth Supply Chain Maintainers","id":3089362}
+{"name":"Sawtooth Website Maintainers","id":2890060}
+{"name":"Security Alerts","id":3651930}
+{"name":"Team Triage","id":4682158}
+{"name":"Transact Admins","id":3303077}
+{"name":"Transact Contrib Maintainers","id":3260736}
+{"name":"Transact Contributors","id":3263315}
+{"name":"Transact Maintainers","id":3260737}
+{"name":"Transact RFCs Maintainers","id":3260735}
+{"name":"Transact SDK Go Admins","id":3351982}
+{"name":"Transact SDK Go Maintainers","id":3351980}
+{"name":"transact-sdk-javascript-admin","id":3569597}
+{"name":"transact-sdk-javascript-maintainers","id":3569600}
+{"name":"TSC","id":3722826}
+{"name":"Ursa Maintainers","id":3010542}
+{"name":"ursa-admins","id":3411329}
+{"name":"ursa-wrapper-go maintainers","id":4093134}

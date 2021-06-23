@@ -1,0 +1,42 @@
+[
+  {
+    "login": "mbrandenburger",
+    "id": 973619,
+    "node_id": "MDQ6VXNlcjk3MzYxOQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/973619?u=69beb6a37ee7ea7be4c7d60806263b3fd175735b&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mbrandenburger",
+    "html_url": "https://github.com/mbrandenburger",
+    "followers_url": "https://api.github.com/users/mbrandenburger/followers",
+    "following_url": "https://api.github.com/users/mbrandenburger/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mbrandenburger/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mbrandenburger/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mbrandenburger/subscriptions",
+    "organizations_url": "https://api.github.com/users/mbrandenburger/orgs",
+    "repos_url": "https://api.github.com/users/mbrandenburger/repos",
+    "events_url": "https://api.github.com/users/mbrandenburger/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mbrandenburger/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "bvavala",
+    "id": 36966516,
+    "node_id": "MDQ6VXNlcjM2OTY2NTE2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/36966516?u=71914ac37e51d194cc06dc63ddc5b4e4d8c4ad1f&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bvavala",
+    "html_url": "https://github.com/bvavala",
+    "followers_url": "https://api.github.com/users/bvavala/followers",
+    "following_url": "https://api.github.com/users/bvavala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bvavala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bvavala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bvavala/subscriptions",
+    "organizations_url": "https://api.github.com/users/bvavala/orgs",
+    "repos_url": "https://api.github.com/users/bvavala/repos",
+    "events_url": "https://api.github.com/users/bvavala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bvavala/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

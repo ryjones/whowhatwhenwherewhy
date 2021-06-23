@@ -1,0 +1,22 @@
+[
+  {
+    "login": "arjanvaneersel",
+    "id": 5507851,
+    "node_id": "MDQ6VXNlcjU1MDc4NTE=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5507851?u=475006232b7b69cd3bc28e27df3da73bdfc30063&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/arjanvaneersel",
+    "html_url": "https://github.com/arjanvaneersel",
+    "followers_url": "https://api.github.com/users/arjanvaneersel/followers",
+    "following_url": "https://api.github.com/users/arjanvaneersel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/arjanvaneersel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/arjanvaneersel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/arjanvaneersel/subscriptions",
+    "organizations_url": "https://api.github.com/users/arjanvaneersel/orgs",
+    "repos_url": "https://api.github.com/users/arjanvaneersel/repos",
+    "events_url": "https://api.github.com/users/arjanvaneersel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/arjanvaneersel/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

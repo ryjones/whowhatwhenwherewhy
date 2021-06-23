@@ -1,0 +1,42 @@
+[
+  {
+    "login": "twshelton",
+    "id": 61970,
+    "node_id": "MDQ6VXNlcjYxOTcw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/61970?u=96bd71c1f8db90d2ebda90f9d82fbd6c0c45f4ae&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/twshelton",
+    "html_url": "https://github.com/twshelton",
+    "followers_url": "https://api.github.com/users/twshelton/followers",
+    "following_url": "https://api.github.com/users/twshelton/following{/other_user}",
+    "gists_url": "https://api.github.com/users/twshelton/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/twshelton/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/twshelton/subscriptions",
+    "organizations_url": "https://api.github.com/users/twshelton/orgs",
+    "repos_url": "https://api.github.com/users/twshelton/repos",
+    "events_url": "https://api.github.com/users/twshelton/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/twshelton/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "tmarkovski",
+    "id": 1280118,
+    "node_id": "MDQ6VXNlcjEyODAxMTg=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1280118?u=90088d8a39a342bce4816fa01adc1806c8add9b8&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tmarkovski",
+    "html_url": "https://github.com/tmarkovski",
+    "followers_url": "https://api.github.com/users/tmarkovski/followers",
+    "following_url": "https://api.github.com/users/tmarkovski/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tmarkovski/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tmarkovski/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tmarkovski/subscriptions",
+    "organizations_url": "https://api.github.com/users/tmarkovski/orgs",
+    "repos_url": "https://api.github.com/users/tmarkovski/repos",
+    "events_url": "https://api.github.com/users/tmarkovski/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tmarkovski/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

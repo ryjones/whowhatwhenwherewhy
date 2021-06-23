@@ -1,0 +1,42 @@
+[
+  {
+    "login": "Patrik-Stas",
+    "id": 2149283,
+    "node_id": "MDQ6VXNlcjIxNDkyODM=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2149283?u=2133ce322bb0ada4a1f1c8a8d1af381e160c5220&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Patrik-Stas",
+    "html_url": "https://github.com/Patrik-Stas",
+    "followers_url": "https://api.github.com/users/Patrik-Stas/followers",
+    "following_url": "https://api.github.com/users/Patrik-Stas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Patrik-Stas/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Patrik-Stas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Patrik-Stas/subscriptions",
+    "organizations_url": "https://api.github.com/users/Patrik-Stas/orgs",
+    "repos_url": "https://api.github.com/users/Patrik-Stas/repos",
+    "events_url": "https://api.github.com/users/Patrik-Stas/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Patrik-Stas/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "mirgee",
+    "id": 11699479,
+    "node_id": "MDQ6VXNlcjExNjk5NDc5",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11699479?u=169ed05330626b90a28e374ba1d9aa87d169ba34&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mirgee",
+    "html_url": "https://github.com/mirgee",
+    "followers_url": "https://api.github.com/users/mirgee/followers",
+    "following_url": "https://api.github.com/users/mirgee/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mirgee/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mirgee/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mirgee/subscriptions",
+    "organizations_url": "https://api.github.com/users/mirgee/orgs",
+    "repos_url": "https://api.github.com/users/mirgee/repos",
+    "events_url": "https://api.github.com/users/mirgee/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mirgee/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

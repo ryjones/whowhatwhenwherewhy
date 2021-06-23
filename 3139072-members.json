@@ -1,0 +1,22 @@
+[
+  {
+    "login": "PatrickLammers",
+    "id": 45403188,
+    "node_id": "MDQ6VXNlcjQ1NDAzMTg4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/45403188?u=ca8756a17aaa70b43015a0d00e840a2c2517dbd9&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PatrickLammers",
+    "html_url": "https://github.com/PatrickLammers",
+    "followers_url": "https://api.github.com/users/PatrickLammers/followers",
+    "following_url": "https://api.github.com/users/PatrickLammers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PatrickLammers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PatrickLammers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PatrickLammers/subscriptions",
+    "organizations_url": "https://api.github.com/users/PatrickLammers/orgs",
+    "repos_url": "https://api.github.com/users/PatrickLammers/repos",
+    "events_url": "https://api.github.com/users/PatrickLammers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PatrickLammers/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

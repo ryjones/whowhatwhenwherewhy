@@ -1,0 +1,42 @@
+[
+  {
+    "login": "swcurran",
+    "id": 1018050,
+    "node_id": "MDQ6VXNlcjEwMTgwNTA=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1018050?u=09263bc08bd42635a08d7a4c47d818e28bc29cb4&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/swcurran",
+    "html_url": "https://github.com/swcurran",
+    "followers_url": "https://api.github.com/users/swcurran/followers",
+    "following_url": "https://api.github.com/users/swcurran/following{/other_user}",
+    "gists_url": "https://api.github.com/users/swcurran/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/swcurran/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/swcurran/subscriptions",
+    "organizations_url": "https://api.github.com/users/swcurran/orgs",
+    "repos_url": "https://api.github.com/users/swcurran/repos",
+    "events_url": "https://api.github.com/users/swcurran/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/swcurran/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "WadeBarnes",
+    "id": 10504350,
+    "node_id": "MDQ6VXNlcjEwNTA0MzUw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/10504350?u=565a6564a547e3838432ecf79afe6e44f41a3062&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WadeBarnes",
+    "html_url": "https://github.com/WadeBarnes",
+    "followers_url": "https://api.github.com/users/WadeBarnes/followers",
+    "following_url": "https://api.github.com/users/WadeBarnes/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WadeBarnes/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WadeBarnes/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WadeBarnes/subscriptions",
+    "organizations_url": "https://api.github.com/users/WadeBarnes/orgs",
+    "repos_url": "https://api.github.com/users/WadeBarnes/repos",
+    "events_url": "https://api.github.com/users/WadeBarnes/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WadeBarnes/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

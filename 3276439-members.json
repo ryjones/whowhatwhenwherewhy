@@ -1,0 +1,22 @@
+[
+  {
+    "login": "smccown",
+    "id": 5666300,
+    "node_id": "MDQ6VXNlcjU2NjYzMDA=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5666300?u=dfe7c9b6315141a684ab6e773682ef1dc5348b05&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/smccown",
+    "html_url": "https://github.com/smccown",
+    "followers_url": "https://api.github.com/users/smccown/followers",
+    "following_url": "https://api.github.com/users/smccown/following{/other_user}",
+    "gists_url": "https://api.github.com/users/smccown/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/smccown/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/smccown/subscriptions",
+    "organizations_url": "https://api.github.com/users/smccown/orgs",
+    "repos_url": "https://api.github.com/users/smccown/repos",
+    "events_url": "https://api.github.com/users/smccown/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/smccown/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

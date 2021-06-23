@@ -1,0 +1,42 @@
+[
+  {
+    "login": "ryjones",
+    "id": 466142,
+    "node_id": "MDQ6VXNlcjQ2NjE0Mg==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/466142?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ryjones",
+    "html_url": "https://github.com/ryjones",
+    "followers_url": "https://api.github.com/users/ryjones/followers",
+    "following_url": "https://api.github.com/users/ryjones/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ryjones/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ryjones/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ryjones/subscriptions",
+    "organizations_url": "https://api.github.com/users/ryjones/orgs",
+    "repos_url": "https://api.github.com/users/ryjones/repos",
+    "events_url": "https://api.github.com/users/ryjones/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ryjones/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "aakzubaidi",
+    "id": 8116425,
+    "node_id": "MDQ6VXNlcjgxMTY0MjU=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8116425?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aakzubaidi",
+    "html_url": "https://github.com/aakzubaidi",
+    "followers_url": "https://api.github.com/users/aakzubaidi/followers",
+    "following_url": "https://api.github.com/users/aakzubaidi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aakzubaidi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aakzubaidi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aakzubaidi/subscriptions",
+    "organizations_url": "https://api.github.com/users/aakzubaidi/orgs",
+    "repos_url": "https://api.github.com/users/aakzubaidi/repos",
+    "events_url": "https://api.github.com/users/aakzubaidi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aakzubaidi/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

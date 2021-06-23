@@ -1,0 +1,42 @@
+[
+  {
+    "login": "denyeart",
+    "id": 20165681,
+    "node_id": "MDQ6VXNlcjIwMTY1Njgx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/20165681?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/denyeart",
+    "html_url": "https://github.com/denyeart",
+    "followers_url": "https://api.github.com/users/denyeart/followers",
+    "following_url": "https://api.github.com/users/denyeart/following{/other_user}",
+    "gists_url": "https://api.github.com/users/denyeart/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/denyeart/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/denyeart/subscriptions",
+    "organizations_url": "https://api.github.com/users/denyeart/orgs",
+    "repos_url": "https://api.github.com/users/denyeart/repos",
+    "events_url": "https://api.github.com/users/denyeart/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/denyeart/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "erin-hughes",
+    "id": 35696678,
+    "node_id": "MDQ6VXNlcjM1Njk2Njc4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/35696678?u=cae1fceeca6951715fecc9f294f4e09505176d0b&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/erin-hughes",
+    "html_url": "https://github.com/erin-hughes",
+    "followers_url": "https://api.github.com/users/erin-hughes/followers",
+    "following_url": "https://api.github.com/users/erin-hughes/following{/other_user}",
+    "gists_url": "https://api.github.com/users/erin-hughes/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/erin-hughes/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/erin-hughes/subscriptions",
+    "organizations_url": "https://api.github.com/users/erin-hughes/orgs",
+    "repos_url": "https://api.github.com/users/erin-hughes/repos",
+    "events_url": "https://api.github.com/users/erin-hughes/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/erin-hughes/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

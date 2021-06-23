@@ -1,0 +1,22 @@
+[
+  {
+    "login": "johncallahan",
+    "id": 645344,
+    "node_id": "MDQ6VXNlcjY0NTM0NA==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/645344?u=c04ba36674bca2d1395e90884f37b7cdefef651b&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/johncallahan",
+    "html_url": "https://github.com/johncallahan",
+    "followers_url": "https://api.github.com/users/johncallahan/followers",
+    "following_url": "https://api.github.com/users/johncallahan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/johncallahan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/johncallahan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/johncallahan/subscriptions",
+    "organizations_url": "https://api.github.com/users/johncallahan/orgs",
+    "repos_url": "https://api.github.com/users/johncallahan/repos",
+    "events_url": "https://api.github.com/users/johncallahan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/johncallahan/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

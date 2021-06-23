@@ -1,0 +1,42 @@
+[
+  {
+    "login": "vaporos",
+    "id": 2374712,
+    "node_id": "MDQ6VXNlcjIzNzQ3MTI=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2374712?u=42b1f74980e1edd6003be7bea5d71e0267bad7a3&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vaporos",
+    "html_url": "https://github.com/vaporos",
+    "followers_url": "https://api.github.com/users/vaporos/followers",
+    "following_url": "https://api.github.com/users/vaporos/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vaporos/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vaporos/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vaporos/subscriptions",
+    "organizations_url": "https://api.github.com/users/vaporos/orgs",
+    "repos_url": "https://api.github.com/users/vaporos/repos",
+    "events_url": "https://api.github.com/users/vaporos/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vaporos/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "dcmiddle",
+    "id": 4999494,
+    "node_id": "MDQ6VXNlcjQ5OTk0OTQ=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4999494?u=c815babd1faf15377e44b7e502dbc28bc54c172b&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dcmiddle",
+    "html_url": "https://github.com/dcmiddle",
+    "followers_url": "https://api.github.com/users/dcmiddle/followers",
+    "following_url": "https://api.github.com/users/dcmiddle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dcmiddle/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dcmiddle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dcmiddle/subscriptions",
+    "organizations_url": "https://api.github.com/users/dcmiddle/orgs",
+    "repos_url": "https://api.github.com/users/dcmiddle/repos",
+    "events_url": "https://api.github.com/users/dcmiddle/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dcmiddle/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]

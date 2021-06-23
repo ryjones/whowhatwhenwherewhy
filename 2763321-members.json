@@ -1,0 +1,42 @@
+[
+  {
+    "login": "vaporos",
+    "id": 2374712,
+    "node_id": "MDQ6VXNlcjIzNzQ3MTI=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2374712?u=42b1f74980e1edd6003be7bea5d71e0267bad7a3&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vaporos",
+    "html_url": "https://github.com/vaporos",
+    "followers_url": "https://api.github.com/users/vaporos/followers",
+    "following_url": "https://api.github.com/users/vaporos/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vaporos/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vaporos/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vaporos/subscriptions",
+    "organizations_url": "https://api.github.com/users/vaporos/orgs",
+    "repos_url": "https://api.github.com/users/vaporos/repos",
+    "events_url": "https://api.github.com/users/vaporos/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vaporos/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "TomBarnes",
+    "id": 6518131,
+    "node_id": "MDQ6VXNlcjY1MTgxMzE=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6518131?u=c06aa1f5a4fcacf3f2ee34668ab42ffb80f5709c&v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TomBarnes",
+    "html_url": "https://github.com/TomBarnes",
+    "followers_url": "https://api.github.com/users/TomBarnes/followers",
+    "following_url": "https://api.github.com/users/TomBarnes/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TomBarnes/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TomBarnes/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TomBarnes/subscriptions",
+    "organizations_url": "https://api.github.com/users/TomBarnes/orgs",
+    "repos_url": "https://api.github.com/users/TomBarnes/repos",
+    "events_url": "https://api.github.com/users/TomBarnes/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TomBarnes/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+]
