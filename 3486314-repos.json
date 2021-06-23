@@ -82,7 +82,7 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 660,
+    "forks_count": 659,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/licenses/apache-2.0",
       "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 660,
+    "forks": 659,
     "open_issues": 5,
     "watchers": 1003,
     "default_branch": "main",

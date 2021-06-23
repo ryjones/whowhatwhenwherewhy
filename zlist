@@ -1,0 +1,21 @@
+set -ex
+cat > zcatalog << 'EOF'
+set -ex
+function f(){
+  curl -s -H "Authorization: token $GITHUB_TOKEN" -X GET https://api.github.com/repos/hyperledger/$1/teams > $1.json
+}
+
+EOF
+
+curl -s \
+  https://raw.githubusercontent.com/ryjones/repolister/main/hyperledger-repos.json |\
+  grep full_name | colrm 1 28 | sort -u | awk '{print "f "$1}' | \
+  sed -e 's/",//' >> zcatalog
+
+cat >> zcatalog << 'EOF'
+
+find . -type f -size 5c -delete
+
+EOF
+
+#bash zcatalog

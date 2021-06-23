@@ -1,9 +1,10 @@
 set -ex
 function f(){
-  curl -H "Authorization: token $GITHUB_TOKEN" -X \
+  curl -s -H "Authorization: token $GITHUB_TOKEN" -X \
       GET https://api.github.com/organizations/7657900/team/$1/members > $1-members.json
-  curl -H "Authorization: token $GITHUB_TOKEN" -X \
+  curl -s -H "Authorization: token $GITHUB_TOKEN" -X \
       GET https://api.github.com/organizations/7657900/team/$1/repos > $1-repos.json
+  find . -type f -size 5c -delete
 }
 
 f 1250312
