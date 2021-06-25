@@ -2,7 +2,7 @@ set -ex
 cat > zcatalog << 'EOF'
 set -ex
 function f(){
-  curl -s -H "Authorization: token $GITHUB_TOKEN" -X GET https://api.github.com/repos/hyperledger/$1/teams > $1.json
+  curl -s -H "Authorization: token $GITHUB_TOKEN" -X GET https://api.github.com/repos/hyperledger/$1/teams > repos/$1.json
 }
 
 EOF
